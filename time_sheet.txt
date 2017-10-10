@@ -1,0 +1,7 @@
+steps:                                                      time
+-----------------------------------------------------------------
+1. data ingestion                                           5min
+2. data cleaning-exploration-visualization                  5hr
+--break for lunch--
+3. modeling                                                 4hr
+4. document report                                          30min
